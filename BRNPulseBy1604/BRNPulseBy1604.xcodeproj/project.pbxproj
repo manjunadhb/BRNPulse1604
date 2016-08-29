@@ -13,6 +13,7 @@
 		D8EFE24A1D7457E500882405 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8EFE2481D7457E500882405 /* Main.storyboard */; };
 		D8EFE24C1D7457E500882405 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D8EFE24B1D7457E500882405 /* Assets.xcassets */; };
 		D8EFE24F1D7457E500882405 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8EFE24D1D7457E500882405 /* LaunchScreen.storyboard */; };
+		D8EFE2571D74599100882405 /* kabali.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D8EFE2561D74599100882405 /* kabali.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		D8EFE24B1D7457E500882405 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D8EFE24E1D7457E500882405 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D8EFE2501D7457E500882405 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D8EFE2561D74599100882405 /* kabali.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kabali.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				D8EFE2431D7457E500882405 /* AppDelegate.m */,
 				D8EFE2451D7457E500882405 /* ViewController.h */,
 				D8EFE2461D7457E500882405 /* ViewController.m */,
+				D8EFE2561D74599100882405 /* kabali.jpg */,
 				D8EFE2481D7457E500882405 /* Main.storyboard */,
 				D8EFE24B1D7457E500882405 /* Assets.xcassets */,
 				D8EFE24D1D7457E500882405 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D8EFE24F1D7457E500882405 /* LaunchScreen.storyboard in Resources */,
+				D8EFE2571D74599100882405 /* kabali.jpg in Resources */,
 				D8EFE24C1D7457E500882405 /* Assets.xcassets in Resources */,
 				D8EFE24A1D7457E500882405 /* Main.storyboard in Resources */,
 			);
